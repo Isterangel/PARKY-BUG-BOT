@@ -18,22 +18,22 @@ global.socialm = "GitHub: Jeanparker100"
 global.location = "Togo, maritime, Lomé"
 
 global.ownernumber = '22898133388'  //creator number
-global.ownername = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛' //owner name
-global.botname = 'lucifer' //name of the bot
+global.ownername = '🩶Ister🩶' //owner name
+global.botname = '🩶Ister🩶' //name of the bot
 
 //sticker details
 global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜'
 global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
 
 //console view/theme
-global.themeemoji = '🩵'
+global.themeemoji = '🇲🇱'
 global.wm = "𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 in©"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45'
 
 //custom prefix
-global.prefa = '.'
+global.prefa = '√'
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
